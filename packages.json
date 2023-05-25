@@ -1,5 +1,9 @@
 [
     {
+        "package": "chk",
+        "url": "https://github.com/poissonconsulting/chk"
+    },
+    {
         "package": "newdata",
         "url": "https://github.com/poissonconsulting/newdata"
     },
