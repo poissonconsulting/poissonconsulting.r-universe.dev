@@ -1,3 +1,3 @@
 # r-universe.dev
 
-<poissonconsulting.r-universe.dev>
+<https://poissonconsulting.r-universe.dev/>
