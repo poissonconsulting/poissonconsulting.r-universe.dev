@@ -1,14 +1,102 @@
 [
     {
+        "package": "bauw",
+        "url": "https://github.com/poissonconsulting/bauw"
+    },
+    {
+        "package": "checkr",
+        "url": "https://github.com/poissonconsulting/checkr"
+    },
+    {
         "package": "chk",
         "url": "https://github.com/poissonconsulting/chk"
+    },
+    {
+        "package": "dbflobr",
+        "url": "https://github.com/poissonconsulting/dbflobr"
+    },
+    {
+        "package": "dttr2",
+        "url": "https://github.com/poissonconsulting/dttr2"
+    },
+    {
+        "package": "err",
+        "url": "https://github.com/poissonconsulting/err"
+    },
+    {
+        "package": "extras",
+        "url": "https://github.com/poissonconsulting/extras"
+    },
+    {
+        "package": "fishbc",
+        "url": "https://github.com/poissonconsulting/fishbc"
+    },
+    {
+        "package": "flobr",
+        "url": "https://github.com/poissonconsulting/flobr"
+    },
+    {
+        "package": "hmstimer",
+        "url": "https://github.com/poissonconsulting/hmstimer"
+    },
+    {
+        "package": "klexdatr",
+        "url": "https://github.com/poissonconsulting/klexdatr"
+    },
+    {
+        "package": "mcmcderive",
+        "url": "https://github.com/poissonconsulting/mcmcderive"
+    },
+    {
+        "package": "mcmcr",
+        "url": "https://github.com/poissonconsulting/mcmcr"
     },
     {
         "package": "newdata",
         "url": "https://github.com/poissonconsulting/newdata"
     },
     {
-        "package": "bauw",
-        "url": "https://github.com/poissonconsulting/bauw"
+        "package": "nlist",
+        "url": "https://github.com/poissonconsulting/nlist"
+    },
+    {
+        "package": "readwritesqlite",
+        "url": "https://github.com/poissonconsulting/readwritesqlite"
+    },
+    {
+        "package": "rpdo",
+        "url": "https://github.com/poissonconsulting/rpdo"
+    },
+    {
+        "package": "rtide",
+        "url": "https://github.com/poissonconsulting/rtide"
+    },
+    {
+        "package": "sims",
+        "url": "https://github.com/poissonconsulting/sims"
+    },
+    {
+        "package": "ssdtools",
+        "url": "https://github.com/poissonconsulting/ssdtools"
+    },
+    {
+        "package": "term",
+        "url": "https://github.com/poissonconsulting/term"
+    },
+    {
+        "package": "tidyplus",
+        "url": "https://github.com/poissonconsulting/tidyplus"
+    },
+    {
+        "package": "universals",
+        "url": "https://github.com/poissonconsulting/universals"
+    },
+    {
+        "package": "yesno",
+        "url": "https://github.com/poissonconsulting/yesno"
+    },
+    {
+        "package": "ypr",
+        "url": "https://github.com/poissonconsulting/ypr"
     }
 ]
