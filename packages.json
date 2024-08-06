@@ -68,6 +68,10 @@
         "url": "https://github.com/poissonconsulting/rpdo"
     },
     {
+        "package": "rescale",
+        "url": "https://github.com/poissonconsulting/rescale"
+    },
+    {
         "package": "rtide",
         "url": "https://github.com/poissonconsulting/rtide"
     },
