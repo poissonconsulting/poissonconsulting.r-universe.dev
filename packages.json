@@ -12,6 +12,10 @@
         "url": "https://github.com/poissonconsulting/chk"
     },
     {
+        "package": "codegrip",
+        "url": "https://github.com/lionel-/codegrip"
+    },    
+    {
         "package": "dbflobr",
         "url": "https://github.com/poissonconsulting/dbflobr"
     },
