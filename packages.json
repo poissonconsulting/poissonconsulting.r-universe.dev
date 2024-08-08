@@ -20,6 +20,10 @@
         "url": "https://github.com/poissonconsulting/dttr2"
     },
     {
+        "package": "embr",
+        "url": "https://github.com/poissonconsulting/embr"
+    },
+    {
         "package": "err",
         "url": "https://github.com/poissonconsulting/err"
     },
@@ -40,10 +44,17 @@
         "url": "https://github.com/poissonconsulting/hmstimer"
     },
     {
+        "package": "jmbr",
+        "url": "https://github.com/poissonconsulting/jmbr"
+    },
+    {
         "package": "klexdatr",
         "url": "https://github.com/poissonconsulting/klexdatr"
     },
     {
+        "package": "mcmcdata",
+        "url": "https://github.com/poissonconsulting/mcmcdata"
+    },    {
         "package": "mcmcderive",
         "url": "https://github.com/poissonconsulting/mcmcderive"
     },
@@ -58,6 +69,10 @@
     {
         "package": "nlist",
         "url": "https://github.com/poissonconsulting/nlist"
+    },
+    {
+        "package": "nmbr",
+        "url": "https://github.com/poissonconsulting/nmbr"
     },
     {
         "package": "readwritesqlite",
@@ -80,6 +95,10 @@
         "url": "https://github.com/poissonconsulting/sims"
     },
     {
+        "package": "smbr",
+        "url": "https://github.com/poissonconsulting/smbr"
+    },
+    {
         "package": "ssdtools",
         "url": "https://github.com/poissonconsulting/ssdtools"
     },
@@ -90,6 +109,14 @@
     {
         "package": "tidyplus",
         "url": "https://github.com/poissonconsulting/tidyplus"
+    },
+    {
+        "package": "timer",
+        "url": "https://github.com/poissonconsulting/timer"
+    },
+    {
+        "package": "tmbr",
+        "url": "https://github.com/poissonconsulting/tmbr"
     },
     {
         "package": "universals",
