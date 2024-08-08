@@ -14,7 +14,7 @@
     {
         "package": "codegrip",
         "url": "https://github.com/lionel-/codegrip"
-    },    
+    },
     {
         "package": "dbflobr",
         "url": "https://github.com/poissonconsulting/dbflobr"
@@ -54,6 +54,10 @@
     {
         "package": "klexdatr",
         "url": "https://github.com/poissonconsulting/klexdatr"
+    },
+    {
+        "package": "klippy",
+        "url": "https://github.com/rlesur/klippy"
     },
     {
         "package": "mcmcdata",
