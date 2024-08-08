@@ -40,6 +40,10 @@
         "url": "https://github.com/poissonconsulting/fishbc"
     },
     {
+        "package": "fledge",
+        "url": "https://github.com/cynkra/fledge"
+    },
+    {
         "package": "flobr",
         "url": "https://github.com/poissonconsulting/flobr"
     },
