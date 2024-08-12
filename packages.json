@@ -83,10 +83,6 @@
         "url": "https://github.com/poissonconsulting/nlist"
     },
     {
-        "package": "nmbr",
-        "url": "https://github.com/poissonconsulting/nmbr"
-    },
-    {
         "package": "readwritesqlite",
         "url": "https://github.com/poissonconsulting/readwritesqlite"
     },
