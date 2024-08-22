@@ -111,10 +111,6 @@
         "url": "https://github.com/poissonconsulting/ssdtools"
     },
     {
-        "package": "ssdtests",
-        "url": "https://github.com/poissonconsulting/ssdtests"
-    },
-    {
         "package": "term",
         "url": "https://github.com/poissonconsulting/term"
     },
