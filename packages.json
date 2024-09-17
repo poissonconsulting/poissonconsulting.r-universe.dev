@@ -115,6 +115,10 @@
         "url": "https://github.com/poissonconsulting/nlist"
     },
     {
+        "package": "pgfeatureserv",
+        "url": "https://github.com/poissonconsulting/pgfeatureserv"
+    },
+    {
         "package": "readwritesqlite",
         "url": "https://github.com/poissonconsulting/readwritesqlite"
     },
