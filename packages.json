@@ -114,7 +114,8 @@
     {
         "package": "mcmcdata",
         "url": "https://github.com/poissonconsulting/mcmcdata"
-    },    {
+    },
+    {
         "package": "mcmcderive",
         "url": "https://github.com/poissonconsulting/mcmcderive"
     },
