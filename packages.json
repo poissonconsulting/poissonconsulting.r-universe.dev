@@ -100,6 +100,10 @@
         "url": "https://github.com/rlesur/klippy"
     },
     {
+        "package": "kootlake",
+        "url": "https://github.com/poissonconsulting/kootlake"
+    },
+    {
         "package": "mcmcdata",
         "url": "https://github.com/poissonconsulting/mcmcdata"
     },    {
@@ -163,6 +167,10 @@
         "url": "https://github.com/poissonconsulting/shinyssdtools"
     },
     {
+        "package": "shinywqbench",
+        "url": "https://github.com/poissonconsulting/shinywqbench"
+    },
+    {
         "package": "term",
         "url": "https://github.com/poissonconsulting/term"
     },
@@ -185,6 +193,10 @@
     {
         "package": "yesno",
         "url": "https://github.com/poissonconsulting/yesno"
+    },
+    {
+        "package": "wqbench",
+        "url": "https://github.com/poissonconsulting/wqbench"
     },
     {
         "package": "ypr",
