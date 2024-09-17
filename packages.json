@@ -80,6 +80,10 @@
         "url": "https://github.com/poissonconsulting/fwapgr"
     },
     {
+        "package": "gsdd",
+        "url": "https://github.com/poissonconsulting/gsdd"
+    },
+    {
         "package": "hmstimer",
         "url": "https://github.com/poissonconsulting/hmstimer"
     },
