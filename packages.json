@@ -48,6 +48,14 @@
         "url": "https://github.com/poissonconsulting/flobr"
     },
     {
+        "package": "fwatlasbc",
+        "url": "https://github.com/poissonconsulting/fwatlasbc"
+    },
+    {
+        "package": "fwapgr",
+        "url": "https://github.com/poissonconsulting/fwapgr"
+    },
+    {
         "package": "hmstimer",
         "url": "https://github.com/poissonconsulting/hmstimer"
     },
