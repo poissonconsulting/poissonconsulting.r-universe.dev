@@ -4,6 +4,30 @@
         "url": "https://github.com/poissonconsulting/bauw"
     },
     {
+        "package": "bboudata",
+        "url": "https://github.com/poissonconsulting/bboudata"
+    },
+    {
+        "package": "bbouretro",
+        "url": "https://github.com/poissonconsulting/bbouretro"
+    },
+    {
+        "package": "bbousuite",
+        "url": "https://github.com/poissonconsulting/bbousuite"
+    },
+    {
+        "package": "bboutools",
+        "url": "https://github.com/poissonconsulting/bboutools"
+    },
+    {
+        "package": "bbousims",
+        "url": "https://github.com/poissonconsulting/bbousims"
+    },
+    {
+        "package": "bboushiny",
+        "url": "https://github.com/poissonconsulting/bboushiny"
+    },
+    {
         "package": "checkr",
         "url": "https://github.com/poissonconsulting/checkr"
     },
