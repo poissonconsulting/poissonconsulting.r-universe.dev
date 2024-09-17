@@ -155,6 +155,10 @@
         "url": "https://github.com/poissonconsulting/ssdtools"
     },
     {
+        "package": "shinyssdtools",
+        "url": "https://github.com/poissonconsulting/shinyssdtools"
+    },
+    {
         "package": "term",
         "url": "https://github.com/poissonconsulting/term"
     },
