@@ -115,6 +115,14 @@
         "url": "https://github.com/poissonconsulting/smbr"
     },
     {
+        "package": "ssddata",
+        "url": "https://github.com/open-AIMS/ssddata"
+    },
+    {
+        "package": "ssdtests",
+        "url": "https://github.com/poissonconsulting/ssdtests"
+    },
+    {
         "package": "ssdtools",
         "url": "https://github.com/poissonconsulting/ssdtools"
     },
