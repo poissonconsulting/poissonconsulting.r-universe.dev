@@ -1,5 +1,9 @@
 [
     {
+        "package": "batchr",
+        "url": "https://github.com/poissonconsulting/batchr"
+    },
+    {
         "package": "bauw",
         "url": "https://github.com/poissonconsulting/bauw"
     },
@@ -38,6 +42,10 @@
     {
         "package": "codegrip",
         "url": "https://github.com/lionel-/codegrip"
+    },
+    {
+        "package": "curtisquadata",
+        "url": "https://github.com/poissonconsulting/curtisquadata"
     },
     {
         "package": "dbflobr",
@@ -127,6 +135,10 @@
         "url": "https://github.com/poissonconsulting/pgfeatureserv"
     },
     {
+        "package": "poispalette",
+        "url": "https://github.com/poissonconsulting/poispalette"
+    },
+    {
         "package": "readwritesqlite",
         "url": "https://github.com/poissonconsulting/readwritesqlite"
     },
@@ -141,6 +153,10 @@
     {
         "package": "rtide",
         "url": "https://github.com/poissonconsulting/rtide"
+    },
+    {
+        "package": "sglekwy",
+        "url": "https://github.com/poissonconsulting/sglekwy"
     },
     {
         "package": "sims",
@@ -171,6 +187,14 @@
         "url": "https://github.com/poissonconsulting/shinywqbench"
     },
     {
+        "package": "shinywqg",
+        "url": "https://github.com/poissonconsulting/shinywqg"
+    },
+    {
+        "package": "shinyypr",
+        "url": "https://github.com/poissonconsulting/shinyypr"
+    },
+    {
         "package": "term",
         "url": "https://github.com/poissonconsulting/term"
     },
@@ -195,8 +219,20 @@
         "url": "https://github.com/poissonconsulting/yesno"
     },
     {
+        "package": "wqbc",
+        "url": "https://github.com/poissonconsulting/wqbc"
+    },
+    {
         "package": "wqbench",
         "url": "https://github.com/poissonconsulting/wqbench"
+    },
+    {
+        "package": "wqbenchdata",
+        "url": "https://github.com/poissonconsulting/wqbenchdata"
+    },
+    {
+        "package": "wqindex",
+        "url": "https://github.com/poissonconsulting/wqindex"
     },
     {
         "package": "ypr",
