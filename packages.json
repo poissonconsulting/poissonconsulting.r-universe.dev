@@ -32,14 +32,6 @@
         "url": "https://github.com/poissonconsulting/bboushiny"
     },
     {
-        "package": "bisonpicsuite",
-        "url": "https://github.com/poissonconsulting/bisonpicsuite"
-    },
-    {
-        "package": "bisonpictools",
-        "url": "https://github.com/poissonconsulting/bisonpictools"
-    },
-    {
         "package": "checkr",
         "url": "https://github.com/poissonconsulting/checkr"
     },
@@ -164,16 +156,8 @@
         "url": "https://github.com/poissonconsulting/rtide"
     },
     {
-        "package": "runbisonpic",
-        "url": "https://github.com/poissonconsulting/runbisonpic"
-    },
-    {
         "package": "sglekwy",
         "url": "https://github.com/poissonconsulting/sglekwy"
-    },
-    {
-        "package": "shinybisonpic",
-        "url": "https://github.com/poissonconsulting/shinybisonpic"
     },
     {
         "package": "shinyssdtools",
