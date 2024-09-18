@@ -32,6 +32,14 @@
         "url": "https://github.com/poissonconsulting/bboushiny"
     },
     {
+        "package": "bisonpicsuite",
+        "url": "https://github.com/poissonconsulting/bisonpicsuite"
+    },
+    {
+        "package": "bisonpictools",
+        "url": "https://github.com/poissonconsulting/bisonpictools"
+    },
+    {
         "package": "checkr",
         "url": "https://github.com/poissonconsulting/checkr"
     },
@@ -156,8 +164,32 @@
         "url": "https://github.com/poissonconsulting/rtide"
     },
     {
+        "package": "runbisonpic",
+        "url": "https://github.com/poissonconsulting/runbisonpic"
+    },
+    {
         "package": "sglekwy",
         "url": "https://github.com/poissonconsulting/sglekwy"
+    },
+    {
+        "package": "shinybisonpic",
+        "url": "https://github.com/poissonconsulting/shinybisonpic"
+    },
+    {
+        "package": "shinyssdtools",
+        "url": "https://github.com/poissonconsulting/shinyssdtools"
+    },
+    {
+        "package": "shinywqbench",
+        "url": "https://github.com/poissonconsulting/shinywqbench"
+    },
+    {
+        "package": "shinywqg",
+        "url": "https://github.com/poissonconsulting/shinywqg"
+    },
+    {
+        "package": "shinyypr",
+        "url": "https://github.com/poissonconsulting/shinyypr"
     },
     {
         "package": "sims",
@@ -178,22 +210,6 @@
     {
         "package": "ssdtools",
         "url": "https://github.com/poissonconsulting/ssdtools"
-    },
-    {
-        "package": "shinyssdtools",
-        "url": "https://github.com/poissonconsulting/shinyssdtools"
-    },
-    {
-        "package": "shinywqbench",
-        "url": "https://github.com/poissonconsulting/shinywqbench"
-    },
-    {
-        "package": "shinywqg",
-        "url": "https://github.com/poissonconsulting/shinywqg"
-    },
-    {
-        "package": "shinyypr",
-        "url": "https://github.com/poissonconsulting/shinyypr"
     },
     {
         "package": "term",
