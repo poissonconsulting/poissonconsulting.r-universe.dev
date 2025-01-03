@@ -140,6 +140,10 @@
         "url": "https://github.com/poissonconsulting/poispalette"
     },
     {
+        "package": "poissontemplate",
+        "url": "https://github.com/poissonconsulting/poissontemplate"
+    },
+    {
         "package": "readwritesqlite",
         "url": "https://github.com/poissonconsulting/readwritesqlite"
     },
