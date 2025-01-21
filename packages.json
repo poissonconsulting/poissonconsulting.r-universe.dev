@@ -152,6 +152,10 @@
         "url": "https://github.com/poissonconsulting/rpdo"
     },
     {
+        "package": "revdepcheck",
+        "url": "https://github.com/r-lib/revdepcheck"
+    },
+    {
         "package": "rescale",
         "url": "https://github.com/poissonconsulting/rescale"
     },
