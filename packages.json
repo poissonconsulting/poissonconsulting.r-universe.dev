@@ -224,6 +224,10 @@
         "url": "https://github.com/poissonconsulting/tmbr"
     },
     {
+        "package": "usethis",
+        "url": "https://github.com/r-lib/usethis"
+    },
+    {
         "package": "universals",
         "url": "https://github.com/poissonconsulting/universals"
     },
