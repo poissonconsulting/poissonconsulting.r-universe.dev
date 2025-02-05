@@ -208,6 +208,10 @@
         "url": "https://github.com/poissonconsulting/ssdtools"
     },
     {
+        "package": "subfoldr2",
+        "url": "https://github.com/poissonconsulting/subfoldr2"
+    },
+    {
         "package": "term",
         "url": "https://github.com/poissonconsulting/term"
     },
