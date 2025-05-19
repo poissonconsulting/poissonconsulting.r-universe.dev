@@ -164,6 +164,10 @@
         "url": "https://github.com/r-lib/roxygen2"
     },
     {
+        "package": "rrtools",
+        "url": "https://github.com/benmarwick/rrtools"
+    },
+    {
         "package": "rtide",
         "url": "https://github.com/poissonconsulting/rtide"
     },
