@@ -60,6 +60,10 @@
         "url": "https://github.com/poissonconsulting/embr"
     },
     {
+        "package": "envirotox",
+        "url": "https://github.com/poissonconsulting/envirotox"
+    },
+    {
         "package": "err",
         "url": "https://github.com/poissonconsulting/err"
     },
