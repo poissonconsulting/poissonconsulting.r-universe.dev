@@ -204,6 +204,14 @@
         "url": "https://github.com/open-AIMS/ssddata"
     },
     {
+        "package": "ssdsims",
+        "url": "https://github.com/poissonconsulting/ssdsims"
+    },
+    {
+        "package": "ssdsuite",
+        "url": "https://github.com/poissonconsulting/ssdsuite"
+    },
+    {
         "package": "ssdtests",
         "url": "https://github.com/poissonconsulting/ssdtests"
     },
