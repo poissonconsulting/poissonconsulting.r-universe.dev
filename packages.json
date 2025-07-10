@@ -220,6 +220,10 @@
         "url": "https://github.com/poissonconsulting/ssdtools"
     },
     {
+        "package": "ssdtools",
+        "url": "https://github.com/poissonconsulting/ssdvignettes"
+    },
+    {
         "package": "subfoldr2",
         "url": "https://github.com/poissonconsulting/subfoldr2"
     },
