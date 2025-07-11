@@ -228,6 +228,10 @@
         "url": "https://github.com/poissonconsulting/subfoldr2"
     },
     {
+        "package": "subreport",
+        "url": "https://github.com/poissonconsulting/subreport"
+    },
+    {
         "package": "term",
         "url": "https://github.com/poissonconsulting/term"
     },
