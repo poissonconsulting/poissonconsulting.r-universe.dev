@@ -40,6 +40,10 @@
         "url": "https://github.com/poissonconsulting/chk"
     },
     {
+        "package": "CmdStanR",
+        "url": "stan-dev/cmdstanr"
+    },
+    {
         "package": "codegrip",
         "url": "https://github.com/lionel-/codegrip"
     },
