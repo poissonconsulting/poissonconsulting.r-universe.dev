@@ -72,6 +72,10 @@
         "url": "https://github.com/poissonconsulting/err"
     },
     {
+        "package": "evrfish",
+        "url": "https://github.com/poissonconsulting/evrfish"
+    },
+    {
         "package": "extras",
         "url": "https://github.com/poissonconsulting/extras"
     },
