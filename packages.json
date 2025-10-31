@@ -180,6 +180,10 @@
         "url": "https://github.com/poissonconsulting/rtide"
     },
     {
+        "package": "ssdsims",
+        "url": "https://github.com/poissonconsulting/ssdsims"
+    },
+    {
         "package": "sglekwy",
         "url": "https://github.com/poissonconsulting/sglekwy"
     },
