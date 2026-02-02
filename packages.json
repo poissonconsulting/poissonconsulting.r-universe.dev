@@ -60,6 +60,10 @@
         "url": "https://github.com/poissonconsulting/dttr2"
     },
     {
+        "package": "duckdb",
+        "url": "https://github.com/poissonconsulting/duckdb/duckdb-r"
+    },
+    {
         "package": "embr",
         "url": "https://github.com/poissonconsulting/embr"
     },
