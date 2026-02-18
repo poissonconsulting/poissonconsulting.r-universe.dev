@@ -252,6 +252,10 @@
         "url": "https://github.com/poissonconsulting/term"
     },
     {
+        "package": "tibblify",
+        "url": "https://github.com/wranglezone/tibblify"
+    },
+    {
         "package": "tidyplus",
         "url": "https://github.com/poissonconsulting/tidyplus"
     },
