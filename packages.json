@@ -177,7 +177,8 @@
     },
     {
         "package": "rjags",
-        "url": "https://github.com/jags/rjags"
+        "url": "https://github.com/jags/rjags",
+        "branch": "release-4_patched"
     },
     {
         "package": "roxygen2",
