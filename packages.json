@@ -176,6 +176,10 @@
         "url": "https://github.com/poissonconsulting/rescale"
     },
     {
+        "package": "rjags",
+        "url": "https://github.com/jags/rjags"
+    },
+    {
         "package": "roxygen2",
         "url": "https://github.com/r-lib/roxygen2"
     },
