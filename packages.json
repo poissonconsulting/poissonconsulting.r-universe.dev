@@ -116,6 +116,10 @@
         "url": "https://github.com/poissonconsulting/jmbr"
     },
     {
+        "package": "kelpbio",
+        "url": "https://github.com/HakaiInstitute/kelpbio"
+    },
+    {
         "package": "klexdatr",
         "url": "https://github.com/poissonconsulting/klexdatr"
     },
