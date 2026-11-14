@@ -104,6 +104,10 @@
         "url": "https://github.com/poissonconsulting/fwapgr"
     },
     {
+        "package": "gratia",
+        "url": "https://github.com/gavinsimpson/gratia"
+    },
+    {
         "package": "gsdd",
         "url": "https://github.com/poissonconsulting/gsdd"
     },
